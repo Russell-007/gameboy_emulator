@@ -1,0 +1,10 @@
+^D:\GITHUB_PROJECTS\GAME_BOY\TARGET\DEBUG\BUILD\SDL2-SYS-A56D0B076815ADF8\OUT\BUILD\CMAKEFILES\4D69A00F7E91DFC9EDAC9D65D32BDC6D\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

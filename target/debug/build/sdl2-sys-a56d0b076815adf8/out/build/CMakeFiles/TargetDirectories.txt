@@ -1,0 +1,8 @@
+D:/Github_projects/game_boy/target/debug/build/sdl2-sys-a56d0b076815adf8/out/build/CMakeFiles/sdl_headers_copy.dir
+D:/Github_projects/game_boy/target/debug/build/sdl2-sys-a56d0b076815adf8/out/build/CMakeFiles/SDL2main.dir
+D:/Github_projects/game_boy/target/debug/build/sdl2-sys-a56d0b076815adf8/out/build/CMakeFiles/SDL2.dir
+D:/Github_projects/game_boy/target/debug/build/sdl2-sys-a56d0b076815adf8/out/build/CMakeFiles/SDL2_test.dir
+D:/Github_projects/game_boy/target/debug/build/sdl2-sys-a56d0b076815adf8/out/build/CMakeFiles/uninstall.dir
+D:/Github_projects/game_boy/target/debug/build/sdl2-sys-a56d0b076815adf8/out/build/CMakeFiles/INSTALL.dir
+D:/Github_projects/game_boy/target/debug/build/sdl2-sys-a56d0b076815adf8/out/build/CMakeFiles/ALL_BUILD.dir
+D:/Github_projects/game_boy/target/debug/build/sdl2-sys-a56d0b076815adf8/out/build/CMakeFiles/ZERO_CHECK.dir
